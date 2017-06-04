@@ -36,9 +36,12 @@ const GUID ORDER_SHUFFLE_ALBUMS = { 0x499E0B08, 0xC887, 0x48C1, { 0x9C, 0xCA, 0x
 const GUID ORDER_SHUFFLE_DIRECTORIES = { 0x83C37600, 0xD725, 0x4727, { 0xB5, 0x3C, 0xBD, 0xEF, 0xFE, 0x5F, 0x8D, 0xC7 } }; // {83C37600-D725-4727-B53C-BDEFFE5F8DC7}
 
 DECLARE_COMPONENT_VERSION(
-	"CD Art Display Plus",
-	"1.2.0",
-	"© 2013 - Birunthan Mohanathas, 2015 - RangerCD");
+	"CD Art Display++",
+	"1.2.1",
+	"© 2013 - Birunthan Mohanathas\n"
+		"  2015 - RangerCD\n"
+		"  2017 - Dystill::JLR"
+);
 
 static initquit_factory_t<foo_cad> foo_interface;
 

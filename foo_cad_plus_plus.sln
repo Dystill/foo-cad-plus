@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo_cad_plus", "foo_cad_plus\foo_cad_plus.vcxproj", "{CC272D9D-8B6A-43D0-AA2E-9F46B0D07C38}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo_cad_plus_plus", "foo_cad_plus_plus\foo_cad_plus_plus.vcxproj", "{CC272D9D-8B6A-43D0-AA2E-9F46B0D07C38}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foobar2000_component_client", "..\foobar2000_component_client\foobar2000_component_client.vcxproj", "{71AD2674-065B-48F5-B8B0-E1F9D3892081}"
 EndProject
