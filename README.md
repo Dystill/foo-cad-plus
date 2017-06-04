@@ -1,11 +1,3 @@
-*foo_cad_plus* is a foobar2000 plugin based on *foo_cad*.
+A modified version of the foobar2000 plugin [foo_cad_plus by RangerCD](https://github.com/RangerCD/foo-cad-plus) which in turn is a modified version of [foo_cad by poiru](http://poiru.github.com/foo-cad). These plugins give foobar2000 CAD functionality for [Rainmeter](http://rainmeter.net/) and [CD Art Display](http://www.cdartdisplay.byethost8.com/) skins. Information for the plugins can be found on their respective GitHub pages.
 
-> *foo_cad* is a foobar2000 plugin to add support for [Rainmeter](http://rainmeter.net/) and [CD Art Display](http://cdartdisplay.com/) skins. To download foo_cad, follow the [installation instructions](http://poiru.github.com/foo-cad).
->
-> To build foo_cad, get the foobar2000 SDK and place the root `foo_cad` directory in the `foobar2000` directory (alongside `SDK`). Then, open `foo_cad\foo_cad.sln` with Visual Studio 2010.
-
-In order to add support for [SAO Utils](http://www.gpbeta.com/post/develop/sao-utils/), foo_cad_plus provides more interfaces.<br><br>
-
-Thanks<br>
->Rainmeter/PluginNowPlaying - https://github.com/rainmeter/rainmeter<br>
->taglib - https://github.com/taglib/taglib
+**foo_cad_plus_plus** simply adds support for genre tags.
