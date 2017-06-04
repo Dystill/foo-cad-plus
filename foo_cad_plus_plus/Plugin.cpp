@@ -159,7 +159,7 @@ void foo_cad::on_playback_new_track(metadb_handle_ptr track)
 	if (!m_cad_window) return;
 
 	service_ptr_t<titleformat_object> script;
-	pfc::string8 format = "[%title%]\t[%artist%]\t[%album%]\t\t$year(%date%)\t\t$num(%tracknumber%,0)\t%length_seconds%\t%path%\t$mul($min($max(0,%rating%),5),2)\t \t\t\t\t\t\t\t";
+	pfc::string8 format = "[%title%]\t[%artist%]\t[%album%]\t[%genre%]\t$year(%date%)\t\t$num(%tracknumber%,0)\t%length_seconds%\t%path%\t$mul($min($max(0,%rating%),5),2)\t \t\t\t\t\t\t\t";
 
 	if (static_api_ptr_t<titleformat_compiler>()->compile(script, format))
 	{
